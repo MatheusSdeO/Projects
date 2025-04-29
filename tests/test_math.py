@@ -1,4 +1,5 @@
 def soma(a, b):
+    print(f"Somando {a} e {b}")
     return a + b
 
 def test_soma():
